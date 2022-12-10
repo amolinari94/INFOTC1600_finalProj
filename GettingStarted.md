@@ -1,4 +1,4 @@
-###Getting Started
+# Getting Started
 
 2. [Setting Up Your BoilerPlate](BoilerPlate.md)
 3. [Adding Content To Your Page](Content.md)
