@@ -21,3 +21,12 @@ Inside the body of your webpage, you can add dividers, paragraphs and more.  Add
 ![div and paragraph](img4.png)
 
 
+Once you've done this, you can add an image to your webpage but adding this:
+![image](img5.png)
+
+Make sure your image is in the project directory, or from a valid URL.
+
+
+Now you're ready to view and test your webpage. [continue](Testing.md)
+
+
