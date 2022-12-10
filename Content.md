@@ -16,6 +16,8 @@ Next, you can create a body for your webpage.  This is where most of your webpag
 
 You'll notice the "script" line in the bottom of the body here.  This is commonly used to add a JavaScript file to your webpage to script actions and reactions to a user's clicks on your webpage.  Learn more about JavaScript [here](https://www.w3schools.com/js/js_intro.asp).
 
-Inside the body of your webpage, you can add <div>Dividers</div>, <p>Paragraphs</p> and more.  Add a divider to your body,and then put a paragraph inside it like this.
+Inside the body of your webpage, you can add dividers, paragraphs and more.  Add a divider to your body,and then put a paragraph inside it like this.
 
 ![div and paragraph](img4.png)
+
+
